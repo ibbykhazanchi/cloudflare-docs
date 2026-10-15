@@ -1,0 +1,19 @@
+src/content/changelog/workers/2026-07-07-warning-attributes.mdx
+  s_0493e39a6e386b::t_986fc8eae35974 2-3,9-11,15,18-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4a5bb27c9d7d02c04bb43457c678601e3eadaf80",
+  "prompts": {},
+  "sessions": {
+    "s_0493e39a6e386b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a14118-8fc2-7831-a99f-08de5e03fa0a",
+        "model": "unknown"
+      },
+      "human_author": "Ibrahim Khajanchi <ikhajanchi@cloudflare.com>"
+    }
+  }
+}
